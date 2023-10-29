@@ -1,0 +1,10 @@
+<AlibreDesignAddOn specificationVersion="1" friendlyName="SimpleCppAddon">
+   <Author name="Stephen S. Mitchell" link="https://github.com/Testbed-for-Alibre-Design\SimpleCppAddon"/>
+   <DLL loadedWhen="Startup" location="SimpleCppAddon.dll"/>
+   <Copyright>Copyright (c) 2023. Stephen S. Mitchell</Copyright>
+   <Icon location="logo.ico"/> 
+   <Menu text="SimpleCppAddon"/>
+   <Description>SimpleCppAddon</Description>
+   <Workspace type="Part"/>
+   <Property name="Identifier" value="SimpleCppAddon"/>
+</AlibreDesignAddOn>
